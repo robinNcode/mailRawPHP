@@ -16,9 +16,7 @@
         }
     </style>
 </head>
-<body>
-    <?php require_once 'proccess.php'; ?>
-    
+<body>    
 	<div class="container pt-8">
 		<h1 class="text-center text-white">Email System with php !!!</h1>
 		<div class="row form-group">
@@ -44,7 +42,7 @@
 					<label class="col-md-2 pt-3 pl-2" for="from">From : </label>
 					<span class="text-danger">*</span>
 					<div class="col-md-8">
-						<input class="form-control" id="from" type="email" value="msmrobin@robin.adovasoft.com" name="from" readonly>
+						<input class="form-control" id="from" type="email" value="msm@robin.adovasoft.com" name="from" readonly>
 					</div>
 				</div>
 				<div class="row">
